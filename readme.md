@@ -3,7 +3,7 @@
 
 ## How to use
 ```sh
-git clone https://
+git clone https://github.com/weak-kajuma/DPO-Labeling
 python3.11 -m venv .venv
 source .venv/bin/activate
 
